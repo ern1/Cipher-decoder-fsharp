@@ -1,0 +1,11 @@
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSprojekt.exe.config
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSprojekt.XML
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSprojekt.exe
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSprojekt.pdb
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSharp.Core.dll
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\System.ValueTuple.dll
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\bin\Debug\FSharp.Core.xml
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\obj\Debug\FSprojekt.exe
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\obj\Debug\FSprojekt.pdb
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\obj\Debug\FSprojekt.fsprojResolveAssemblyReference.cache
+C:\Users\ernsu\Desktop\FSprojekt\FSprojekt\obj\Debug\FSprojekt.fsproj.CopyComplete
